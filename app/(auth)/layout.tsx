@@ -1,5 +1,4 @@
 import React, {ReactNode} from 'react'
-import AuthForm from "@/components/AuthForm";
 import {redirect} from "next/navigation";
 import {isAuthenticated} from "@/lib/actions/auth.action";
 
